@@ -15,7 +15,7 @@ Esse dashboard interativo podemos comparar o desempenho YoY e o Q4 das vendas.
 #### ⚙️ Funcionalidades
 Primeira pagina temos um overview sobre as vendas comparando o Q4 entre anos, temos a visualização de vendas, lucro, quantidade e descontos, temos vendas por categorias, produtos com lucro negativo, vendas por estados e sub-categoria de produtos.
 
-Segunda pagina temos uma análise mais profunda das vendas com filtros disponíveis com lucros e perdas por cidades, produtos mais vendidos por cidades comparação YoY. Podendo tirar insight importantes, cidades com mais vendas porem menos lucros devido ao aumento de descontos, cidades que vendem menos, mas com mais lucro, cidades que dão prejuízos.
+Segunda pagina temos uma análise mais profunda das vendas com filtros disponíveis com lucros e perdas por cidades, produtos mais vendidos por cidades comparação YoY. Podendo tirar insight importantes, cidades com mais vendas porem menos lucros devido ao aumento de descontos, cidades que vendem menos, mas com mais lucro, cidades que dão prejuízos entre outos.
 
 ### Dashboard
 ![Image](https://github.com/DavidRherinson/dashboard_vendas/blob/main/dash%20img.png)
