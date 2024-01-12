@@ -9,7 +9,7 @@
 
 ## 💻 Sobre o projeto
 
-E um projeto onde é exibido um dashboard contendo informações sobre as vendas realizadas em franquias.
+E um projeto feito no looker onde é exibido um dashboard contendo informações sobre as vendas realizadas em franquias.
 Esse dashboard interativo podemos comparar o desempenho YoY e o Q4 das vendas.
 
 #### ⚙️ Funcionalidades
